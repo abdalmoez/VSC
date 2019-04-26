@@ -1,0 +1,11 @@
+C:\Users\Zi\Desktop\VSC\bin\Release\VSC.exe.config
+C:\Users\Zi\Desktop\VSC\bin\Release\VSC.exe
+C:\Users\Zi\Desktop\VSC\bin\Release\VSC.pdb
+C:\Users\Zi\Desktop\VSC\bin\Release\en\VSC.resources.dll
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.Form1.resources
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.Properties.Resources.resources
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.Form1.en.resources
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.csproj.GenerateResource.Cache
+C:\Users\Zi\Desktop\VSC\obj\Release\en\VSC.resources.dll
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.exe
+C:\Users\Zi\Desktop\VSC\obj\Release\VSC.pdb

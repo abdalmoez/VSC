@@ -1,0 +1,12 @@
+C:\Users\Zi\Desktop\VSC\bin\Debug\VSC.exe.config
+C:\Users\Zi\Desktop\VSC\bin\Debug\VSC.exe
+C:\Users\Zi\Desktop\VSC\bin\Debug\VSC.pdb
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.csprojResolveAssemblyReference.cache
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.Form1.resources
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.Properties.Resources.resources
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.csproj.GenerateResource.Cache
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.exe
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.pdb
+C:\Users\Zi\Desktop\VSC\bin\Debug\en\VSC.resources.dll
+C:\Users\Zi\Desktop\VSC\obj\Debug\VSC.Form1.en.resources
+C:\Users\Zi\Desktop\VSC\obj\Debug\en\VSC.resources.dll
